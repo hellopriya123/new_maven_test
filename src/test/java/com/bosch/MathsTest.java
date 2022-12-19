@@ -6,7 +6,7 @@ import org.junit.Before;
 import org.junit.Test;
 import org.junit.After;
 
-public class MathsTest {
+public class TestNG {
 
 	private Maths classundertest;	
 
